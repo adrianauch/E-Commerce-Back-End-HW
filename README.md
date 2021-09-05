@@ -9,6 +9,28 @@ The application is the backend application that route api routes to display stor
 In order to use the application please download the node modules with npm i.
 
 ## Usage
+Get request: 
+
+
+https://user-images.githubusercontent.com/87041736/132129582-440f507e-20f4-4719-aa2d-7dfd5d7a06e4.mov
+
+Post Request: 
+
+
+https://user-images.githubusercontent.com/87041736/132129615-992dbf16-d271-4a80-b19f-d6e6ed82dc09.mov
+
+Put Request: 
+
+
+<img width="1080" alt="Screen Shot 2021-09-04 at 10 30 27 PM" src="https://user-images.githubusercontent.com/87041736/132129661-5ae2176c-5fc7-461c-9575-30a9230eed3c.png">
+
+
+Delete Request: 
+
+
+https://user-images.githubusercontent.com/87041736/132129786-6afb3552-ec76-4c3b-a48f-3e99ed492f9b.mov
+
+
 
 Link to a deployed Video:
 Please add and seed the database before running node server.js.
